@@ -45,5 +45,4 @@ Building and shipping a five-project engineering monorepo — open to **Full-Sta
 ## 📫 Contact
 
 - Portfolio: https://hire-me-mono.vercel.app
-- LinkedIn: [add your LinkedIn URL]
-- Email: [add your email]
+- Email: rjmcgee53192@yahoo.com
