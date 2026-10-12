@@ -23,6 +23,20 @@ Monorepo: https://github.com/rjmcgee53192/hire-me-mono
 
 ---
 
+## 🤝 Open source
+
+| Contribution | What I did | Status |
+|---|---|---|
+| [NVIDIA/cuda-samples #464](https://github.com/NVIDIA/cuda-samples/pull/464) | Fixed a Windows relative-path bug in `run_tests.py` (Python) | Open |
+| [teslamotors/vehicle-command #515](https://github.com/teslamotors/vehicle-command/pull/515) | Fixed a goroutine leak in `StartSessions` (Go) | Open |
+| [teslamotors/fleet-telemetry #575](https://github.com/teslamotors/fleet-telemetry/pull/575) | Replaced an MQTT client panic with retry and backoff (Go) | Open |
+| [containers/podman-py #673](https://github.com/containers/podman-py/pull/673) | Honoured `CONTAINER_CONNECTION` in `PodmanClient.from_env()` (Python) | Open |
+| [tiltedphoques/TiltedEvolution #924](https://github.com/tiltedphoques/TiltedEvolution/pull/924) | Added a Settings option to anchor the network debug stats overlay to any screen corner (TypeScript/Angular) | Merged |
+| [Azure/azure-sdk-for-python #49499](https://github.com/Azure/azure-sdk-for-python/pull/49499) | Fixed a duplicated error message in `ODataV4Format.__str__`, added a regression test (Python) | Draft |
+| [nasa/fprime #6060](https://github.com/nasa/fprime/issues/6060) | Investigated the reported defect, verified it was already fixed upstream, and documented the evidence — a NASA maintainer confirmed and closed the issue | Acknowledged |
+
+---
+
 ## 🛠️ Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -46,3 +60,4 @@ Building and shipping a five-project engineering monorepo — open to **Full-Sta
 
 - Portfolio: https://hire-me-mono.vercel.app
 - Email: rjmcgee53192@yahoo.com
+
