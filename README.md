@@ -31,6 +31,7 @@ Monorepo: https://github.com/rjmcgee53192/hire-me-mono
 | [teslamotors/vehicle-command #515](https://github.com/teslamotors/vehicle-command/pull/515) | Fixed a goroutine leak in `StartSessions` (Go) | Open |
 | [teslamotors/fleet-telemetry #575](https://github.com/teslamotors/fleet-telemetry/pull/575) | Replaced an MQTT client panic with retry and backoff (Go) | Open |
 | [containers/podman-py #673](https://github.com/containers/podman-py/pull/673) | Honoured `CONTAINER_CONNECTION` in `PodmanClient.from_env()` (Python) | Open |
+| [containers/podman-py #679](https://github.com/containers/podman-py/pull/679) | Return `None` from `ServiceConnection.identity` when no identity is configured, instead of raising `TypeError` (Python) | Open |
 | [tiltedphoques/TiltedEvolution #924](https://github.com/tiltedphoques/TiltedEvolution/pull/924) | Added a Settings option to anchor the network debug stats overlay to any screen corner (TypeScript/Angular) | Merged |
 | [Azure/azure-sdk-for-python #49499](https://github.com/Azure/azure-sdk-for-python/pull/49499) | Fixed a duplicated error message in `ODataV4Format.__str__`, added a regression test (Python) | Draft |
 | [Shopify/cli #8939](https://github.com/Shopify/cli/pull/8939) | Fixed `theme dev` 502 errors on storefront responses with large headers by pinning a 128 KiB undici header cap (TypeScript) | Open |
