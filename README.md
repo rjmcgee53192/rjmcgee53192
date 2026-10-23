@@ -35,7 +35,7 @@ Monorepo: https://github.com/rjmcgee53192/hire-me-mono
 | [tiltedphoques/TiltedEvolution #924](https://github.com/tiltedphoques/TiltedEvolution/pull/924) | Added a Settings option to anchor the network debug stats overlay to any screen corner (TypeScript/Angular) | Merged |
 | [Azure/azure-sdk-for-python #49499](https://github.com/Azure/azure-sdk-for-python/pull/49499) | Fixed a duplicated error message in `ODataV4Format.__str__`, added a regression test (Python) | Draft |
 | [Shopify/cli #8939](https://github.com/Shopify/cli/pull/8939) | Fixed `theme dev` 502 errors on storefront responses with large headers by pinning a 128 KiB undici header cap (TypeScript) | Open |
-| [temporalio/sdk-typescript #2541](https://github.com/temporalio/sdk-typescript/pull/2541) | Added a public `version` export to `@temporalio/common` (TypeScript) | Open |
+| [temporalio/sdk-typescript #2541](https://github.com/temporalio/sdk-typescript/pull/2541) | Added a public `version` export to `@temporalio/common` (TypeScript) | Closed — maintainers solving it via release automation |
 | [nasa/fprime #6060](https://github.com/nasa/fprime/issues/6060) | Investigated the reported defect, verified it was already fixed upstream, and documented the evidence — a NASA maintainer confirmed and closed the issue | Acknowledged |
 
 ---
