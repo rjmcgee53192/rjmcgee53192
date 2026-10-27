@@ -33,6 +33,7 @@ Monorepo: https://github.com/rjmcgee53192/hire-me-mono
 | [containers/podman-py #682](https://github.com/containers/podman-py/pull/682) | Honoured `CONTAINER_CONNECTION` in `PodmanClient.from_env()` (Python) | Merged |
 | [containers/podman-py #679](https://github.com/containers/podman-py/pull/679) | Return `None` from `ServiceConnection.identity` when no identity is configured, instead of raising `TypeError` (Python) | Closed — duplicate of #656 |
 | [tiltedphoques/TiltedEvolution #924](https://github.com/tiltedphoques/TiltedEvolution/pull/924) | Added a Settings option to anchor the network debug stats overlay to any screen corner (TypeScript/Angular) | Merged |
+| [tiltedphoques/TiltedEvolution #936](https://github.com/tiltedphoques/TiltedEvolution/pull/936) | Let server settings be overridden with environment variables for one-command Docker deployments (C++) | Open |
 | [Azure/azure-sdk-for-python #49499](https://github.com/Azure/azure-sdk-for-python/pull/49499) | Fixed a duplicated error message in `ODataV4Format.__str__`, added a regression test (Python) | Draft |
 | [Shopify/cli #8939](https://github.com/Shopify/cli/pull/8939) | Fixed `theme dev` 502 errors on storefront responses with large headers by pinning a 128 KiB undici header cap (TypeScript) | Open |
 | [temporalio/sdk-typescript #2541](https://github.com/temporalio/sdk-typescript/pull/2541) | Added a public `version` export to `@temporalio/common` (TypeScript) | Closed — maintainers solving it via release automation |
