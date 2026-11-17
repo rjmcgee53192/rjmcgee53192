@@ -31,6 +31,7 @@ Monorepo: https://github.com/rjmcgee53192/hire-me-mono
 | [teslamotors/vehicle-command #515](https://github.com/teslamotors/vehicle-command/pull/515) | Fixed a goroutine leak in `StartSessions` (Go) | Open |
 | [teslamotors/fleet-telemetry #575](https://github.com/teslamotors/fleet-telemetry/pull/575) | Replaced an MQTT client panic with retry and backoff (Go) | Open |
 | [containers/podman-py #682](https://github.com/containers/podman-py/pull/682) | Honoured `CONTAINER_CONNECTION` in `PodmanClient.from_env()` (Python) | Merged |
+| [containers/podman-py #762](https://github.com/containers/podman-py/pull/762) | Surface deletion failures reported in HTTP 200 bodies: `NetworksManager.remove()` checks the report `Err` field and `QuadletsManager.delete()` checks `Errors`, raising `APIError` (Python) | Open |
 | [containers/podman-py #679](https://github.com/containers/podman-py/pull/679) | Return `None` from `ServiceConnection.identity` when no identity is configured, instead of raising `TypeError` (Python) | Closed — duplicate of #656 |
 | [tiltedphoques/TiltedEvolution #924](https://github.com/tiltedphoques/TiltedEvolution/pull/924) | Added a Settings option to anchor the network debug stats overlay to any screen corner (TypeScript/Angular) | Merged |
 | [tiltedphoques/TiltedEvolution #936](https://github.com/tiltedphoques/TiltedEvolution/pull/936) | Let server settings be overridden with environment variables for one-command Docker deployments (C++) | Open |
